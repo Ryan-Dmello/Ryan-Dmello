@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I am Ryan D'Mello, 👋
+
+- I have 16+ years development experience with Python, and worked on multiple applications in multiple  domains.
+- Good hands-on knowledge on Python, HTML, CSS, PHP,  Javascript, Node-js.
+- Worked on UI frameworks like React-JS.
+- Additionally have good knowledge on various Dev-Ops tools like Jenkins, Docker, Travis-CI.
+- Hands on knowledge on RDBS Databses like Postgres, MySQL. Also worked on NOSQL Databases like MongoDB, CouchDB.
+- Have some experience around designing application from scratch to completion, with Agile methodology.
+- 
 
 <!--
 **Ryan-Dmello/Ryan-Dmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
