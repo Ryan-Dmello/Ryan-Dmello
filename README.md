@@ -6,7 +6,7 @@
 - Additionally have good knowledge on various Dev-Ops tools like Jenkins, Docker, Travis-CI.
 - Hands on knowledge on RDBS Databses like Postgres, MySQL. Also worked on NOSQL Databases like MongoDB, CouchDB.
 - Have some experience around designing application from scratch to completion, with Agile methodology.
-- 
+- Also have contributed to multiple open source communities.
 
 <!--
 **Ryan-Dmello/Ryan-Dmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
